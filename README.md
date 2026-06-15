@@ -12,7 +12,7 @@ Replace:
 
 <div align="center">
 
-# 👋 Hi, I'm **Ian Bennedick L. Retuta**
+# Hi, I'm **Ian Bennedick L. Retuta**
 
 ### Computer Science Graduate | AI & Data Science Enthusiast | Aspiring Software Developer
 
