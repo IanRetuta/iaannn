@@ -37,7 +37,7 @@ I build practical systems using **Software Development**, **Data Science**, and 
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 ```txt
 Name        : Ian Bennedick L. Retuta
@@ -104,7 +104,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 
 ---
 
-## 🛠️ Tech Toolbox
+##  Tech Toolbox
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Open to       : Collaboration, internships, and entry-level software roles
 
 ---
 
-## 🤝 Let's Connect
+## Connect with Me
 
 <div align="center">
 
