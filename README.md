@@ -31,7 +31,7 @@ I build practical systems using **Software Development**, **Data Science**, and 
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=blueviolet&style=flat-square)
+![Profile Views](https://github.com/Ianzzkieee/iaannn)
 
 </div>
 
@@ -42,24 +42,24 @@ I build practical systems using **Software Development**, **Data Science**, and 
 ```txt
 Name        : Ian Bennedick L. Retuta
 Field       : Computer Science
-Focus       : AI, Data Science, NLP, and Web Development
+Focus       : Artificial Intelligence, Data Analytics, Machine Learning, Network Engineering, and Web Development
 Interest    : Building useful systems from research ideas
 Goal        : Create clean, practical, and user-centered technology
 ```
 
-I am a Computer Science graduate from **Saint Louis University** with experience in academic and applied projects involving **machine learning**, **natural language processing**, **retrieval-augmented generation**, **data analysis**, and **web-based systems**.
+I am a Computer Science graduate from **Saint Louis University** with experience in academic and applied projects involving **Machine Learning**, **Natural Language Processing**, **Retrieval-Augmented Generation**, **Data Analysis**, and **Web-Based Systems**.
 
 I enjoy transforming research concepts into working prototypes, especially systems that help users access information more easily and make better decisions.
 
 ---
 
-## 🚀 What I Work On
+##  What I Work On
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI and NLP
+### AI and NLP
 - Lightweight transformer models
 - Retrieval-Augmented Generation
 - Chatbot development
@@ -69,7 +69,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 </td>
 <td width="50%">
 
-### 📊 Data Science
+### Data Science
 - Data preprocessing
 - Exploratory data analysis
 - Classification and clustering
@@ -81,7 +81,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 <tr>
 <td width="50%">
 
-### 💻 Software Development
+### Software Development
 - Web application development
 - Dashboard interfaces
 - Database-driven systems
@@ -91,7 +91,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 </td>
 <td width="50%">
 
-### 📚 Research Interests
+### Research Interests
 - Legal information systems
 - AI-assisted decision support
 - SME chatbot solutions
@@ -191,7 +191,7 @@ Dashboard and application interface projects focused on clean layouts, usability
 
 ---
 
-## 📈 GitHub Dashboard
+## GitHub Dashboard
 
 <div align="center">
 
@@ -206,7 +206,7 @@ Dashboard and application interface projects focused on clean layouts, usability
 
 ---
 
-## 🧩 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Dashboard and application interface projects focused on clean layouts, usability
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```txt
 Learning      : Advanced AI systems, RAG pipelines, and full-stack development
