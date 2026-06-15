@@ -3,7 +3,7 @@ GitHub Profile README Template
 Style: Terminal + Dashboard Layout
 Replace:
 - ianzzkieee
-- https://www.linkedin.com/in/ianzzkieee/
+- ianzzkieee
 - ianbennedick10@gmail.com
 - https://your-portfolio-link.com
 -->
